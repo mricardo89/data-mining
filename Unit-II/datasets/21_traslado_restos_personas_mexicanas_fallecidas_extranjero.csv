@@ -1,0 +1,1089 @@
+anio,sexo,entidad,casos_proteccion_atendidos,fecha
+2010,hombre,Aguascalientes,1.0,2010-01-01
+2010,mujer,Aguascalientes,0.0,2010-01-01
+2011,hombre,Aguascalientes,1.0,2011-01-01
+2011,mujer,Aguascalientes,0.0,2011-01-01
+2012,hombre,Aguascalientes,2.0,2012-01-01
+2012,mujer,Aguascalientes,0.0,2012-01-01
+2013,hombre,Aguascalientes,1.0,2013-01-01
+2013,mujer,Aguascalientes,0.0,2013-01-01
+2014,hombre,Aguascalientes,,2014-01-01
+2014,mujer,Aguascalientes,,2014-01-01
+2015,hombre,Aguascalientes,,2015-01-01
+2015,mujer,Aguascalientes,,2015-01-01
+2016,hombre,Aguascalientes,,2016-01-01
+2016,mujer,Aguascalientes,,2016-01-01
+2017,hombre,Aguascalientes,,2017-01-01
+2017,mujer,Aguascalientes,,2017-01-01
+2018,hombre,Aguascalientes,,2018-01-01
+2018,mujer,Aguascalientes,,2018-01-01
+2019,hombre,Aguascalientes,1.0,2019-01-01
+2019,mujer,Aguascalientes,0.0,2019-01-01
+2020,hombre,Aguascalientes,,2020-01-01
+2020,mujer,Aguascalientes,1.0,2020-01-01
+2021,hombre,Aguascalientes,1.0,2021-01-01
+2021,mujer,Aguascalientes,,2021-01-01
+2022,hombre,Aguascalientes,1.0,2022-01-01
+2022,mujer,Aguascalientes,,2022-01-01
+2023,hombre,Aguascalientes,1.0,2023-01-01
+2023,mujer,Aguascalientes,,2023-01-01
+2024,hombre,Aguascalientes,2.0,2024-01-01
+2024,mujer,Aguascalientes,,2024-01-01
+2025,hombre,Aguascalientes,,2025-01-01
+2025,mujer,Aguascalientes,1.0,2025-01-01
+2010,hombre,Baja California Norte,,2010-01-01
+2010,mujer,Baja California Norte,,2010-01-01
+2011,hombre,Baja California Norte,1.0,2011-01-01
+2011,mujer,Baja California Norte,0.0,2011-01-01
+2012,hombre,Baja California Norte,1.0,2012-01-01
+2012,mujer,Baja California Norte,0.0,2012-01-01
+2013,hombre,Baja California Norte,,2013-01-01
+2013,mujer,Baja California Norte,,2013-01-01
+2014,hombre,Baja California Norte,,2014-01-01
+2014,mujer,Baja California Norte,,2014-01-01
+2015,hombre,Baja California Norte,,2015-01-01
+2015,mujer,Baja California Norte,,2015-01-01
+2016,hombre,Baja California Norte,,2016-01-01
+2016,mujer,Baja California Norte,,2016-01-01
+2017,hombre,Baja California Norte,,2017-01-01
+2017,mujer,Baja California Norte,,2017-01-01
+2018,hombre,Baja California Norte,2.0,2018-01-01
+2018,mujer,Baja California Norte,0.0,2018-01-01
+2019,hombre,Baja California Norte,1.0,2019-01-01
+2019,mujer,Baja California Norte,1.0,2019-01-01
+2020,hombre,Baja California Norte,1.0,2020-01-01
+2020,mujer,Baja California Norte,,2020-01-01
+2021,hombre,Baja California Norte,1.0,2021-01-01
+2021,mujer,Baja California Norte,3.0,2021-01-01
+2022,hombre,Baja California Norte,,2022-01-01
+2022,mujer,Baja California Norte,,2022-01-01
+2023,hombre,Baja California Norte,,2023-01-01
+2023,mujer,Baja California Norte,,2023-01-01
+2024,hombre,Baja California Norte,,2024-01-01
+2024,mujer,Baja California Norte,1.0,2024-01-01
+2025,hombre,Baja California Norte,,2025-01-01
+2025,mujer,Baja California Norte,,2025-01-01
+2010,hombre,Baja California Sur,,2010-01-01
+2010,mujer,Baja California Sur,,2010-01-01
+2011,hombre,Baja California Sur,,2011-01-01
+2011,mujer,Baja California Sur,,2011-01-01
+2012,hombre,Baja California Sur,,2012-01-01
+2012,mujer,Baja California Sur,,2012-01-01
+2013,hombre,Baja California Sur,,2013-01-01
+2013,mujer,Baja California Sur,,2013-01-01
+2014,hombre,Baja California Sur,,2014-01-01
+2014,mujer,Baja California Sur,,2014-01-01
+2015,hombre,Baja California Sur,,2015-01-01
+2015,mujer,Baja California Sur,,2015-01-01
+2016,hombre,Baja California Sur,,2016-01-01
+2016,mujer,Baja California Sur,,2016-01-01
+2017,hombre,Baja California Sur,1.0,2017-01-01
+2017,mujer,Baja California Sur,0.0,2017-01-01
+2018,hombre,Baja California Sur,,2018-01-01
+2018,mujer,Baja California Sur,,2018-01-01
+2019,hombre,Baja California Sur,2.0,2019-01-01
+2019,mujer,Baja California Sur,0.0,2019-01-01
+2020,hombre,Baja California Sur,,2020-01-01
+2020,mujer,Baja California Sur,,2020-01-01
+2021,hombre,Baja California Sur,2.0,2021-01-01
+2021,mujer,Baja California Sur,,2021-01-01
+2022,hombre,Baja California Sur,,2022-01-01
+2022,mujer,Baja California Sur,,2022-01-01
+2023,hombre,Baja California Sur,,2023-01-01
+2023,mujer,Baja California Sur,,2023-01-01
+2024,hombre,Baja California Sur,,2024-01-01
+2024,mujer,Baja California Sur,1.0,2024-01-01
+2025,hombre,Baja California Sur,,2025-01-01
+2025,mujer,Baja California Sur,,2025-01-01
+2010,hombre,Campeche,,2010-01-01
+2010,mujer,Campeche,,2010-01-01
+2011,hombre,Campeche,1.0,2011-01-01
+2011,mujer,Campeche,0.0,2011-01-01
+2012,hombre,Campeche,0.0,2012-01-01
+2012,mujer,Campeche,1.0,2012-01-01
+2013,hombre,Campeche,,2013-01-01
+2013,mujer,Campeche,,2013-01-01
+2014,hombre,Campeche,,2014-01-01
+2014,mujer,Campeche,,2014-01-01
+2015,hombre,Campeche,,2015-01-01
+2015,mujer,Campeche,,2015-01-01
+2016,hombre,Campeche,,2016-01-01
+2016,mujer,Campeche,,2016-01-01
+2017,hombre,Campeche,,2017-01-01
+2017,mujer,Campeche,,2017-01-01
+2018,hombre,Campeche,,2018-01-01
+2018,mujer,Campeche,,2018-01-01
+2019,hombre,Campeche,,2019-01-01
+2019,mujer,Campeche,,2019-01-01
+2020,hombre,Campeche,2.0,2020-01-01
+2020,mujer,Campeche,1.0,2020-01-01
+2021,hombre,Campeche,,2021-01-01
+2021,mujer,Campeche,,2021-01-01
+2022,hombre,Campeche,1.0,2022-01-01
+2022,mujer,Campeche,,2022-01-01
+2023,hombre,Campeche,1.0,2023-01-01
+2023,mujer,Campeche,,2023-01-01
+2024,hombre,Campeche,,2024-01-01
+2024,mujer,Campeche,,2024-01-01
+2025,hombre,Campeche,,2025-01-01
+2025,mujer,Campeche,,2025-01-01
+2010,hombre,Chiapas,1.0,2010-01-01
+2010,mujer,Chiapas,0.0,2010-01-01
+2011,hombre,Chiapas,1.0,2011-01-01
+2011,mujer,Chiapas,0.0,2011-01-01
+2012,hombre,Chiapas,2.0,2012-01-01
+2012,mujer,Chiapas,1.0,2012-01-01
+2013,hombre,Chiapas,3.0,2013-01-01
+2013,mujer,Chiapas,0.0,2013-01-01
+2014,hombre,Chiapas,2.0,2014-01-01
+2014,mujer,Chiapas,1.0,2014-01-01
+2015,hombre,Chiapas,3.0,2015-01-01
+2015,mujer,Chiapas,1.0,2015-01-01
+2016,hombre,Chiapas,0.0,2016-01-01
+2016,mujer,Chiapas,2.0,2016-01-01
+2017,hombre,Chiapas,1.0,2017-01-01
+2017,mujer,Chiapas,0.0,2017-01-01
+2018,hombre,Chiapas,5.0,2018-01-01
+2018,mujer,Chiapas,3.0,2018-01-01
+2019,hombre,Chiapas,5.0,2019-01-01
+2019,mujer,Chiapas,1.0,2019-01-01
+2020,hombre,Chiapas,2.0,2020-01-01
+2020,mujer,Chiapas,1.0,2020-01-01
+2021,hombre,Chiapas,3.0,2021-01-01
+2021,mujer,Chiapas,,2021-01-01
+2022,hombre,Chiapas,5.0,2022-01-01
+2022,mujer,Chiapas,,2022-01-01
+2023,hombre,Chiapas,1.0,2023-01-01
+2023,mujer,Chiapas,,2023-01-01
+2024,hombre,Chiapas,3.0,2024-01-01
+2024,mujer,Chiapas,,2024-01-01
+2025,hombre,Chiapas,1.0,2025-01-01
+2025,mujer,Chiapas,,2025-01-01
+2010,hombre,Chihuahua,,2010-01-01
+2010,mujer,Chihuahua,,2010-01-01
+2011,hombre,Chihuahua,,2011-01-01
+2011,mujer,Chihuahua,,2011-01-01
+2012,hombre,Chihuahua,2.0,2012-01-01
+2012,mujer,Chihuahua,1.0,2012-01-01
+2013,hombre,Chihuahua,1.0,2013-01-01
+2013,mujer,Chihuahua,1.0,2013-01-01
+2014,hombre,Chihuahua,1.0,2014-01-01
+2014,mujer,Chihuahua,0.0,2014-01-01
+2015,hombre,Chihuahua,,2015-01-01
+2015,mujer,Chihuahua,,2015-01-01
+2016,hombre,Chihuahua,3.0,2016-01-01
+2016,mujer,Chihuahua,0.0,2016-01-01
+2017,hombre,Chihuahua,,2017-01-01
+2017,mujer,Chihuahua,,2017-01-01
+2018,hombre,Chihuahua,,2018-01-01
+2018,mujer,Chihuahua,,2018-01-01
+2019,hombre,Chihuahua,,2019-01-01
+2019,mujer,Chihuahua,,2019-01-01
+2020,hombre,Chihuahua,1.0,2020-01-01
+2020,mujer,Chihuahua,,2020-01-01
+2021,hombre,Chihuahua,3.0,2021-01-01
+2021,mujer,Chihuahua,,2021-01-01
+2022,hombre,Chihuahua,4.0,2022-01-01
+2022,mujer,Chihuahua,1.0,2022-01-01
+2023,hombre,Chihuahua,1.0,2023-01-01
+2023,mujer,Chihuahua,,2023-01-01
+2024,hombre,Chihuahua,1.0,2024-01-01
+2024,mujer,Chihuahua,,2024-01-01
+2025,hombre,Chihuahua,,2025-01-01
+2025,mujer,Chihuahua,,2025-01-01
+2010,hombre,Ciudad de México,6.0,2010-01-01
+2010,mujer,Ciudad de México,5.0,2010-01-01
+2011,hombre,Ciudad de México,8.0,2011-01-01
+2011,mujer,Ciudad de México,0.0,2011-01-01
+2012,hombre,Ciudad de México,12.0,2012-01-01
+2012,mujer,Ciudad de México,7.0,2012-01-01
+2013,hombre,Ciudad de México,7.0,2013-01-01
+2013,mujer,Ciudad de México,2.0,2013-01-01
+2014,hombre,Ciudad de México,8.0,2014-01-01
+2014,mujer,Ciudad de México,2.0,2014-01-01
+2015,hombre,Ciudad de México,9.0,2015-01-01
+2015,mujer,Ciudad de México,5.0,2015-01-01
+2016,hombre,Ciudad de México,7.0,2016-01-01
+2016,mujer,Ciudad de México,3.0,2016-01-01
+2017,hombre,Ciudad de México,15.0,2017-01-01
+2017,mujer,Ciudad de México,6.0,2017-01-01
+2018,hombre,Ciudad de México,5.0,2018-01-01
+2018,mujer,Ciudad de México,8.0,2018-01-01
+2019,hombre,Ciudad de México,5.0,2019-01-01
+2019,mujer,Ciudad de México,4.0,2019-01-01
+2020,hombre,Ciudad de México,5.0,2020-01-01
+2020,mujer,Ciudad de México,3.0,2020-01-01
+2021,hombre,Ciudad de México,16.0,2021-01-01
+2021,mujer,Ciudad de México,4.0,2021-01-01
+2022,hombre,Ciudad de México,11.0,2022-01-01
+2022,mujer,Ciudad de México,6.0,2022-01-01
+2023,hombre,Ciudad de México,16.0,2023-01-01
+2023,mujer,Ciudad de México,10.0,2023-01-01
+2024,hombre,Ciudad de México,18.0,2024-01-01
+2024,mujer,Ciudad de México,7.0,2024-01-01
+2025,hombre,Ciudad de México,,2025-01-01
+2025,mujer,Ciudad de México,3.0,2025-01-01
+2010,hombre,Coahuila,,2010-01-01
+2010,mujer,Coahuila,,2010-01-01
+2011,hombre,Coahuila,2.0,2011-01-01
+2011,mujer,Coahuila,0.0,2011-01-01
+2012,hombre,Coahuila,0.0,2012-01-01
+2012,mujer,Coahuila,2.0,2012-01-01
+2013,hombre,Coahuila,,2013-01-01
+2013,mujer,Coahuila,,2013-01-01
+2014,hombre,Coahuila,,2014-01-01
+2014,mujer,Coahuila,,2014-01-01
+2015,hombre,Coahuila,1.0,2015-01-01
+2015,mujer,Coahuila,0.0,2015-01-01
+2016,hombre,Coahuila,2.0,2016-01-01
+2016,mujer,Coahuila,0.0,2016-01-01
+2017,hombre,Coahuila,,2017-01-01
+2017,mujer,Coahuila,,2017-01-01
+2018,hombre,Coahuila,1.0,2018-01-01
+2018,mujer,Coahuila,0.0,2018-01-01
+2019,hombre,Coahuila,3.0,2019-01-01
+2019,mujer,Coahuila,0.0,2019-01-01
+2020,hombre,Coahuila,2.0,2020-01-01
+2020,mujer,Coahuila,,2020-01-01
+2021,hombre,Coahuila,,2021-01-01
+2021,mujer,Coahuila,,2021-01-01
+2022,hombre,Coahuila,,2022-01-01
+2022,mujer,Coahuila,,2022-01-01
+2023,hombre,Coahuila,,2023-01-01
+2023,mujer,Coahuila,,2023-01-01
+2024,hombre,Coahuila,,2024-01-01
+2024,mujer,Coahuila,,2024-01-01
+2025,hombre,Coahuila,,2025-01-01
+2025,mujer,Coahuila,,2025-01-01
+2010,hombre,Colima,,2010-01-01
+2010,mujer,Colima,,2010-01-01
+2011,hombre,Colima,1.0,2011-01-01
+2011,mujer,Colima,0.0,2011-01-01
+2012,hombre,Colima,2.0,2012-01-01
+2012,mujer,Colima,0.0,2012-01-01
+2013,hombre,Colima,,2013-01-01
+2013,mujer,Colima,,2013-01-01
+2014,hombre,Colima,,2014-01-01
+2014,mujer,Colima,,2014-01-01
+2015,hombre,Colima,1.0,2015-01-01
+2015,mujer,Colima,0.0,2015-01-01
+2016,hombre,Colima,,2016-01-01
+2016,mujer,Colima,,2016-01-01
+2017,hombre,Colima,0.0,2017-01-01
+2017,mujer,Colima,1.0,2017-01-01
+2018,hombre,Colima,,2018-01-01
+2018,mujer,Colima,,2018-01-01
+2019,hombre,Colima,3.0,2019-01-01
+2019,mujer,Colima,0.0,2019-01-01
+2020,hombre,Colima,,2020-01-01
+2020,mujer,Colima,,2020-01-01
+2021,hombre,Colima,,2021-01-01
+2021,mujer,Colima,,2021-01-01
+2022,hombre,Colima,,2022-01-01
+2022,mujer,Colima,,2022-01-01
+2023,hombre,Colima,,2023-01-01
+2023,mujer,Colima,1.0,2023-01-01
+2024,hombre,Colima,,2024-01-01
+2024,mujer,Colima,1.0,2024-01-01
+2025,hombre,Colima,,2025-01-01
+2025,mujer,Colima,,2025-01-01
+2010,hombre,Durango,,2010-01-01
+2010,mujer,Durango,,2010-01-01
+2011,hombre,Durango,1.0,2011-01-01
+2011,mujer,Durango,0.0,2011-01-01
+2012,hombre,Durango,2.0,2012-01-01
+2012,mujer,Durango,0.0,2012-01-01
+2013,hombre,Durango,,2013-01-01
+2013,mujer,Durango,,2013-01-01
+2014,hombre,Durango,1.0,2014-01-01
+2014,mujer,Durango,0.0,2014-01-01
+2015,hombre,Durango,,2015-01-01
+2015,mujer,Durango,,2015-01-01
+2016,hombre,Durango,2.0,2016-01-01
+2016,mujer,Durango,0.0,2016-01-01
+2017,hombre,Durango,,2017-01-01
+2017,mujer,Durango,,2017-01-01
+2018,hombre,Durango,1.0,2018-01-01
+2018,mujer,Durango,0.0,2018-01-01
+2019,hombre,Durango,,2019-01-01
+2019,mujer,Durango,,2019-01-01
+2020,hombre,Durango,3.0,2020-01-01
+2020,mujer,Durango,,2020-01-01
+2021,hombre,Durango,2.0,2021-01-01
+2021,mujer,Durango,,2021-01-01
+2022,hombre,Durango,1.0,2022-01-01
+2022,mujer,Durango,,2022-01-01
+2023,hombre,Durango,1.0,2023-01-01
+2023,mujer,Durango,1.0,2023-01-01
+2024,hombre,Durango,,2024-01-01
+2024,mujer,Durango,,2024-01-01
+2025,hombre,Durango,,2025-01-01
+2025,mujer,Durango,,2025-01-01
+2010,hombre,Edo Mexico,1.0,2010-01-01
+2010,mujer,Edo Mexico,0.0,2010-01-01
+2011,hombre,Edo Mexico,1.0,2011-01-01
+2011,mujer,Edo Mexico,3.0,2011-01-01
+2012,hombre,Edo Mexico,2.0,2012-01-01
+2012,mujer,Edo Mexico,0.0,2012-01-01
+2013,hombre,Edo Mexico,2.0,2013-01-01
+2013,mujer,Edo Mexico,0.0,2013-01-01
+2014,hombre,Edo Mexico,1.0,2014-01-01
+2014,mujer,Edo Mexico,0.0,2014-01-01
+2015,hombre,Edo Mexico,0.0,2015-01-01
+2015,mujer,Edo Mexico,1.0,2015-01-01
+2016,hombre,Edo Mexico,0.0,2016-01-01
+2016,mujer,Edo Mexico,1.0,2016-01-01
+2017,hombre,Edo Mexico,3.0,2017-01-01
+2017,mujer,Edo Mexico,2.0,2017-01-01
+2018,hombre,Edo Mexico,1.0,2018-01-01
+2018,mujer,Edo Mexico,1.0,2018-01-01
+2019,hombre,Edo Mexico,1.0,2019-01-01
+2019,mujer,Edo Mexico,1.0,2019-01-01
+2020,hombre,Edo Mexico,2.0,2020-01-01
+2020,mujer,Edo Mexico,2.0,2020-01-01
+2021,hombre,Edo Mexico,5.0,2021-01-01
+2021,mujer,Edo Mexico,,2021-01-01
+2022,hombre,Edo Mexico,3.0,2022-01-01
+2022,mujer,Edo Mexico,,2022-01-01
+2023,hombre,Edo Mexico,3.0,2023-01-01
+2023,mujer,Edo Mexico,1.0,2023-01-01
+2024,hombre,Edo Mexico,10.0,2024-01-01
+2024,mujer,Edo Mexico,1.0,2024-01-01
+2025,hombre,Edo Mexico,2.0,2025-01-01
+2025,mujer,Edo Mexico,,2025-01-01
+2010,hombre,Guanajuato,,2010-01-01
+2010,mujer,Guanajuato,,2010-01-01
+2011,hombre,Guanajuato,1.0,2011-01-01
+2011,mujer,Guanajuato,0.0,2011-01-01
+2012,hombre,Guanajuato,,2012-01-01
+2012,mujer,Guanajuato,,2012-01-01
+2013,hombre,Guanajuato,1.0,2013-01-01
+2013,mujer,Guanajuato,1.0,2013-01-01
+2014,hombre,Guanajuato,,2014-01-01
+2014,mujer,Guanajuato,,2014-01-01
+2015,hombre,Guanajuato,1.0,2015-01-01
+2015,mujer,Guanajuato,1.0,2015-01-01
+2016,hombre,Guanajuato,2.0,2016-01-01
+2016,mujer,Guanajuato,0.0,2016-01-01
+2017,hombre,Guanajuato,1.0,2017-01-01
+2017,mujer,Guanajuato,2.0,2017-01-01
+2018,hombre,Guanajuato,0.0,2018-01-01
+2018,mujer,Guanajuato,1.0,2018-01-01
+2019,hombre,Guanajuato,2.0,2019-01-01
+2019,mujer,Guanajuato,2.0,2019-01-01
+2020,hombre,Guanajuato,3.0,2020-01-01
+2020,mujer,Guanajuato,,2020-01-01
+2021,hombre,Guanajuato,,2021-01-01
+2021,mujer,Guanajuato,1.0,2021-01-01
+2022,hombre,Guanajuato,1.0,2022-01-01
+2022,mujer,Guanajuato,,2022-01-01
+2023,hombre,Guanajuato,1.0,2023-01-01
+2023,mujer,Guanajuato,1.0,2023-01-01
+2024,hombre,Guanajuato,5.0,2024-01-01
+2024,mujer,Guanajuato,1.0,2024-01-01
+2025,hombre,Guanajuato,1.0,2025-01-01
+2025,mujer,Guanajuato,,2025-01-01
+2010,hombre,Guerrero,3.0,2010-01-01
+2010,mujer,Guerrero,0.0,2010-01-01
+2011,hombre,Guerrero,,2011-01-01
+2011,mujer,Guerrero,,2011-01-01
+2012,hombre,Guerrero,1.0,2012-01-01
+2012,mujer,Guerrero,0.0,2012-01-01
+2013,hombre,Guerrero,1.0,2013-01-01
+2013,mujer,Guerrero,1.0,2013-01-01
+2014,hombre,Guerrero,,2014-01-01
+2014,mujer,Guerrero,,2014-01-01
+2015,hombre,Guerrero,1.0,2015-01-01
+2015,mujer,Guerrero,0.0,2015-01-01
+2016,hombre,Guerrero,2.0,2016-01-01
+2016,mujer,Guerrero,0.0,2016-01-01
+2017,hombre,Guerrero,,2017-01-01
+2017,mujer,Guerrero,,2017-01-01
+2018,hombre,Guerrero,,2018-01-01
+2018,mujer,Guerrero,,2018-01-01
+2019,hombre,Guerrero,1.0,2019-01-01
+2019,mujer,Guerrero,1.0,2019-01-01
+2020,hombre,Guerrero,2.0,2020-01-01
+2020,mujer,Guerrero,,2020-01-01
+2021,hombre,Guerrero,1.0,2021-01-01
+2021,mujer,Guerrero,,2021-01-01
+2022,hombre,Guerrero,2.0,2022-01-01
+2022,mujer,Guerrero,1.0,2022-01-01
+2023,hombre,Guerrero,5.0,2023-01-01
+2023,mujer,Guerrero,1.0,2023-01-01
+2024,hombre,Guerrero,,2024-01-01
+2024,mujer,Guerrero,,2024-01-01
+2025,hombre,Guerrero,,2025-01-01
+2025,mujer,Guerrero,,2025-01-01
+2010,hombre,Hidalgo,1.0,2010-01-01
+2010,mujer,Hidalgo,0.0,2010-01-01
+2011,hombre,Hidalgo,,2011-01-01
+2011,mujer,Hidalgo,,2011-01-01
+2012,hombre,Hidalgo,1.0,2012-01-01
+2012,mujer,Hidalgo,0.0,2012-01-01
+2013,hombre,Hidalgo,2.0,2013-01-01
+2013,mujer,Hidalgo,1.0,2013-01-01
+2014,hombre,Hidalgo,,2014-01-01
+2014,mujer,Hidalgo,,2014-01-01
+2015,hombre,Hidalgo,0.0,2015-01-01
+2015,mujer,Hidalgo,1.0,2015-01-01
+2016,hombre,Hidalgo,2.0,2016-01-01
+2016,mujer,Hidalgo,0.0,2016-01-01
+2017,hombre,Hidalgo,,2017-01-01
+2017,mujer,Hidalgo,,2017-01-01
+2018,hombre,Hidalgo,2.0,2018-01-01
+2018,mujer,Hidalgo,0.0,2018-01-01
+2019,hombre,Hidalgo,1.0,2019-01-01
+2019,mujer,Hidalgo,0.0,2019-01-01
+2020,hombre,Hidalgo,2.0,2020-01-01
+2020,mujer,Hidalgo,,2020-01-01
+2021,hombre,Hidalgo,2.0,2021-01-01
+2021,mujer,Hidalgo,1.0,2021-01-01
+2022,hombre,Hidalgo,3.0,2022-01-01
+2022,mujer,Hidalgo,,2022-01-01
+2023,hombre,Hidalgo,2.0,2023-01-01
+2023,mujer,Hidalgo,,2023-01-01
+2024,hombre,Hidalgo,2.0,2024-01-01
+2024,mujer,Hidalgo,2.0,2024-01-01
+2025,hombre,Hidalgo,1.0,2025-01-01
+2025,mujer,Hidalgo,,2025-01-01
+2010,hombre,Jalisco,2.0,2010-01-01
+2010,mujer,Jalisco,0.0,2010-01-01
+2011,hombre,Jalisco,1.0,2011-01-01
+2011,mujer,Jalisco,0.0,2011-01-01
+2012,hombre,Jalisco,2.0,2012-01-01
+2012,mujer,Jalisco,0.0,2012-01-01
+2013,hombre,Jalisco,,2013-01-01
+2013,mujer,Jalisco,,2013-01-01
+2014,hombre,Jalisco,6.0,2014-01-01
+2014,mujer,Jalisco,2.0,2014-01-01
+2015,hombre,Jalisco,1.0,2015-01-01
+2015,mujer,Jalisco,1.0,2015-01-01
+2016,hombre,Jalisco,2.0,2016-01-01
+2016,mujer,Jalisco,0.0,2016-01-01
+2017,hombre,Jalisco,6.0,2017-01-01
+2017,mujer,Jalisco,1.0,2017-01-01
+2018,hombre,Jalisco,3.0,2018-01-01
+2018,mujer,Jalisco,0.0,2018-01-01
+2019,hombre,Jalisco,4.0,2019-01-01
+2019,mujer,Jalisco,1.0,2019-01-01
+2020,hombre,Jalisco,4.0,2020-01-01
+2020,mujer,Jalisco,1.0,2020-01-01
+2021,hombre,Jalisco,1.0,2021-01-01
+2021,mujer,Jalisco,,2021-01-01
+2022,hombre,Jalisco,3.0,2022-01-01
+2022,mujer,Jalisco,1.0,2022-01-01
+2023,hombre,Jalisco,5.0,2023-01-01
+2023,mujer,Jalisco,1.0,2023-01-01
+2024,hombre,Jalisco,9.0,2024-01-01
+2024,mujer,Jalisco,1.0,2024-01-01
+2025,hombre,Jalisco,1.0,2025-01-01
+2025,mujer,Jalisco,,2025-01-01
+2010,hombre,Michoacan,,2010-01-01
+2010,mujer,Michoacan,,2010-01-01
+2011,hombre,Michoacan,,2011-01-01
+2011,mujer,Michoacan,,2011-01-01
+2012,hombre,Michoacan,2.0,2012-01-01
+2012,mujer,Michoacan,2.0,2012-01-01
+2013,hombre,Michoacan,1.0,2013-01-01
+2013,mujer,Michoacan,1.0,2013-01-01
+2014,hombre,Michoacan,3.0,2014-01-01
+2014,mujer,Michoacan,0.0,2014-01-01
+2015,hombre,Michoacan,2.0,2015-01-01
+2015,mujer,Michoacan,1.0,2015-01-01
+2016,hombre,Michoacan,2.0,2016-01-01
+2016,mujer,Michoacan,0.0,2016-01-01
+2017,hombre,Michoacan,2.0,2017-01-01
+2017,mujer,Michoacan,0.0,2017-01-01
+2018,hombre,Michoacan,3.0,2018-01-01
+2018,mujer,Michoacan,1.0,2018-01-01
+2019,hombre,Michoacan,2.0,2019-01-01
+2019,mujer,Michoacan,0.0,2019-01-01
+2020,hombre,Michoacan,,2020-01-01
+2020,mujer,Michoacan,,2020-01-01
+2021,hombre,Michoacan,2.0,2021-01-01
+2021,mujer,Michoacan,1.0,2021-01-01
+2022,hombre,Michoacan,3.0,2022-01-01
+2022,mujer,Michoacan,,2022-01-01
+2023,hombre,Michoacan,2.0,2023-01-01
+2023,mujer,Michoacan,1.0,2023-01-01
+2024,hombre,Michoacan,1.0,2024-01-01
+2024,mujer,Michoacan,1.0,2024-01-01
+2025,hombre,Michoacan,,2025-01-01
+2025,mujer,Michoacan,,2025-01-01
+2010,hombre,Morelos,,2010-01-01
+2010,mujer,Morelos,,2010-01-01
+2011,hombre,Morelos,,2011-01-01
+2011,mujer,Morelos,,2011-01-01
+2012,hombre,Morelos,1.0,2012-01-01
+2012,mujer,Morelos,0.0,2012-01-01
+2013,hombre,Morelos,0.0,2013-01-01
+2013,mujer,Morelos,1.0,2013-01-01
+2014,hombre,Morelos,,2014-01-01
+2014,mujer,Morelos,,2014-01-01
+2015,hombre,Morelos,0.0,2015-01-01
+2015,mujer,Morelos,1.0,2015-01-01
+2016,hombre,Morelos,,2016-01-01
+2016,mujer,Morelos,,2016-01-01
+2017,hombre,Morelos,0.0,2017-01-01
+2017,mujer,Morelos,1.0,2017-01-01
+2018,hombre,Morelos,,2018-01-01
+2018,mujer,Morelos,,2018-01-01
+2019,hombre,Morelos,1.0,2019-01-01
+2019,mujer,Morelos,1.0,2019-01-01
+2020,hombre,Morelos,4.0,2020-01-01
+2020,mujer,Morelos,1.0,2020-01-01
+2021,hombre,Morelos,1.0,2021-01-01
+2021,mujer,Morelos,,2021-01-01
+2022,hombre,Morelos,,2022-01-01
+2022,mujer,Morelos,1.0,2022-01-01
+2023,hombre,Morelos,2.0,2023-01-01
+2023,mujer,Morelos,1.0,2023-01-01
+2024,hombre,Morelos,2.0,2024-01-01
+2024,mujer,Morelos,1.0,2024-01-01
+2025,hombre,Morelos,,2025-01-01
+2025,mujer,Morelos,,2025-01-01
+2010,hombre,Nacido Extranjero,,2010-01-01
+2010,mujer,Nacido Extranjero,,2010-01-01
+2011,hombre,Nacido Extranjero,,2011-01-01
+2011,mujer,Nacido Extranjero,,2011-01-01
+2012,hombre,Nacido Extranjero,,2012-01-01
+2012,mujer,Nacido Extranjero,,2012-01-01
+2013,hombre,Nacido Extranjero,,2013-01-01
+2013,mujer,Nacido Extranjero,,2013-01-01
+2014,hombre,Nacido Extranjero,,2014-01-01
+2014,mujer,Nacido Extranjero,,2014-01-01
+2015,hombre,Nacido Extranjero,,2015-01-01
+2015,mujer,Nacido Extranjero,,2015-01-01
+2016,hombre,Nacido Extranjero,,2016-01-01
+2016,mujer,Nacido Extranjero,,2016-01-01
+2017,hombre,Nacido Extranjero,,2017-01-01
+2017,mujer,Nacido Extranjero,,2017-01-01
+2018,hombre,Nacido Extranjero,,2018-01-01
+2018,mujer,Nacido Extranjero,,2018-01-01
+2019,hombre,Nacido Extranjero,,2019-01-01
+2019,mujer,Nacido Extranjero,,2019-01-01
+2020,hombre,Nacido Extranjero,,2020-01-01
+2020,mujer,Nacido Extranjero,,2020-01-01
+2021,hombre,Nacido Extranjero,,2021-01-01
+2021,mujer,Nacido Extranjero,,2021-01-01
+2022,hombre,Nacido Extranjero,,2022-01-01
+2022,mujer,Nacido Extranjero,,2022-01-01
+2023,hombre,Nacido Extranjero,,2023-01-01
+2023,mujer,Nacido Extranjero,,2023-01-01
+2024,hombre,Nacido Extranjero,3.0,2024-01-01
+2024,mujer,Nacido Extranjero,,2024-01-01
+2025,hombre,Nacido Extranjero,1.0,2025-01-01
+2025,mujer,Nacido Extranjero,,2025-01-01
+2010,hombre,Nayarit,4.0,2010-01-01
+2010,mujer,Nayarit,0.0,2010-01-01
+2011,hombre,Nayarit,,2011-01-01
+2011,mujer,Nayarit,,2011-01-01
+2012,hombre,Nayarit,,2012-01-01
+2012,mujer,Nayarit,,2012-01-01
+2013,hombre,Nayarit,,2013-01-01
+2013,mujer,Nayarit,,2013-01-01
+2014,hombre,Nayarit,1.0,2014-01-01
+2014,mujer,Nayarit,0.0,2014-01-01
+2015,hombre,Nayarit,,2015-01-01
+2015,mujer,Nayarit,,2015-01-01
+2016,hombre,Nayarit,,2016-01-01
+2016,mujer,Nayarit,,2016-01-01
+2017,hombre,Nayarit,1.0,2017-01-01
+2017,mujer,Nayarit,0.0,2017-01-01
+2018,hombre,Nayarit,2.0,2018-01-01
+2018,mujer,Nayarit,0.0,2018-01-01
+2019,hombre,Nayarit,,2019-01-01
+2019,mujer,Nayarit,,2019-01-01
+2020,hombre,Nayarit,1.0,2020-01-01
+2020,mujer,Nayarit,,2020-01-01
+2021,hombre,Nayarit,,2021-01-01
+2021,mujer,Nayarit,,2021-01-01
+2022,hombre,Nayarit,1.0,2022-01-01
+2022,mujer,Nayarit,,2022-01-01
+2023,hombre,Nayarit,1.0,2023-01-01
+2023,mujer,Nayarit,1.0,2023-01-01
+2024,hombre,Nayarit,,2024-01-01
+2024,mujer,Nayarit,,2024-01-01
+2025,hombre,Nayarit,,2025-01-01
+2025,mujer,Nayarit,,2025-01-01
+2010,hombre,Nuevo León,1.0,2010-01-01
+2010,mujer,Nuevo León,1.0,2010-01-01
+2011,hombre,Nuevo León,2.0,2011-01-01
+2011,mujer,Nuevo León,0.0,2011-01-01
+2012,hombre,Nuevo León,0.0,2012-01-01
+2012,mujer,Nuevo León,1.0,2012-01-01
+2013,hombre,Nuevo León,,2013-01-01
+2013,mujer,Nuevo León,,2013-01-01
+2014,hombre,Nuevo León,1.0,2014-01-01
+2014,mujer,Nuevo León,1.0,2014-01-01
+2015,hombre,Nuevo León,1.0,2015-01-01
+2015,mujer,Nuevo León,0.0,2015-01-01
+2016,hombre,Nuevo León,,2016-01-01
+2016,mujer,Nuevo León,,2016-01-01
+2017,hombre,Nuevo León,2.0,2017-01-01
+2017,mujer,Nuevo León,1.0,2017-01-01
+2018,hombre,Nuevo León,1.0,2018-01-01
+2018,mujer,Nuevo León,0.0,2018-01-01
+2019,hombre,Nuevo León,1.0,2019-01-01
+2019,mujer,Nuevo León,1.0,2019-01-01
+2020,hombre,Nuevo León,1.0,2020-01-01
+2020,mujer,Nuevo León,,2020-01-01
+2021,hombre,Nuevo León,2.0,2021-01-01
+2021,mujer,Nuevo León,,2021-01-01
+2022,hombre,Nuevo León,1.0,2022-01-01
+2022,mujer,Nuevo León,,2022-01-01
+2023,hombre,Nuevo León,,2023-01-01
+2023,mujer,Nuevo León,1.0,2023-01-01
+2024,hombre,Nuevo León,1.0,2024-01-01
+2024,mujer,Nuevo León,,2024-01-01
+2025,hombre,Nuevo León,,2025-01-01
+2025,mujer,Nuevo León,,2025-01-01
+2010,hombre,Oaxaca,1.0,2010-01-01
+2010,mujer,Oaxaca,0.0,2010-01-01
+2011,hombre,Oaxaca,,2011-01-01
+2011,mujer,Oaxaca,,2011-01-01
+2012,hombre,Oaxaca,,2012-01-01
+2012,mujer,Oaxaca,,2012-01-01
+2013,hombre,Oaxaca,2.0,2013-01-01
+2013,mujer,Oaxaca,0.0,2013-01-01
+2014,hombre,Oaxaca,0.0,2014-01-01
+2014,mujer,Oaxaca,1.0,2014-01-01
+2015,hombre,Oaxaca,,2015-01-01
+2015,mujer,Oaxaca,,2015-01-01
+2016,hombre,Oaxaca,,2016-01-01
+2016,mujer,Oaxaca,,2016-01-01
+2017,hombre,Oaxaca,2.0,2017-01-01
+2017,mujer,Oaxaca,1.0,2017-01-01
+2018,hombre,Oaxaca,0.0,2018-01-01
+2018,mujer,Oaxaca,1.0,2018-01-01
+2019,hombre,Oaxaca,3.0,2019-01-01
+2019,mujer,Oaxaca,0.0,2019-01-01
+2020,hombre,Oaxaca,1.0,2020-01-01
+2020,mujer,Oaxaca,,2020-01-01
+2021,hombre,Oaxaca,1.0,2021-01-01
+2021,mujer,Oaxaca,1.0,2021-01-01
+2022,hombre,Oaxaca,1.0,2022-01-01
+2022,mujer,Oaxaca,1.0,2022-01-01
+2023,hombre,Oaxaca,1.0,2023-01-01
+2023,mujer,Oaxaca,,2023-01-01
+2024,hombre,Oaxaca,1.0,2024-01-01
+2024,mujer,Oaxaca,,2024-01-01
+2025,hombre,Oaxaca,,2025-01-01
+2025,mujer,Oaxaca,,2025-01-01
+2010,hombre,Puebla,,2010-01-01
+2010,mujer,Puebla,,2010-01-01
+2011,hombre,Puebla,2.0,2011-01-01
+2011,mujer,Puebla,0.0,2011-01-01
+2012,hombre,Puebla,,2012-01-01
+2012,mujer,Puebla,,2012-01-01
+2013,hombre,Puebla,0.0,2013-01-01
+2013,mujer,Puebla,1.0,2013-01-01
+2014,hombre,Puebla,1.0,2014-01-01
+2014,mujer,Puebla,0.0,2014-01-01
+2015,hombre,Puebla,2.0,2015-01-01
+2015,mujer,Puebla,1.0,2015-01-01
+2016,hombre,Puebla,0.0,2016-01-01
+2016,mujer,Puebla,1.0,2016-01-01
+2017,hombre,Puebla,,2017-01-01
+2017,mujer,Puebla,,2017-01-01
+2018,hombre,Puebla,3.0,2018-01-01
+2018,mujer,Puebla,1.0,2018-01-01
+2019,hombre,Puebla,1.0,2019-01-01
+2019,mujer,Puebla,0.0,2019-01-01
+2020,hombre,Puebla,2.0,2020-01-01
+2020,mujer,Puebla,,2020-01-01
+2021,hombre,Puebla,2.0,2021-01-01
+2021,mujer,Puebla,,2021-01-01
+2022,hombre,Puebla,3.0,2022-01-01
+2022,mujer,Puebla,,2022-01-01
+2023,hombre,Puebla,3.0,2023-01-01
+2023,mujer,Puebla,,2023-01-01
+2024,hombre,Puebla,1.0,2024-01-01
+2024,mujer,Puebla,1.0,2024-01-01
+2025,hombre,Puebla,2.0,2025-01-01
+2025,mujer,Puebla,,2025-01-01
+2010,hombre,Querétaro,,2010-01-01
+2010,mujer,Querétaro,,2010-01-01
+2011,hombre,Querétaro,,2011-01-01
+2011,mujer,Querétaro,,2011-01-01
+2012,hombre,Querétaro,,2012-01-01
+2012,mujer,Querétaro,,2012-01-01
+2013,hombre,Querétaro,,2013-01-01
+2013,mujer,Querétaro,,2013-01-01
+2014,hombre,Querétaro,,2014-01-01
+2014,mujer,Querétaro,,2014-01-01
+2015,hombre,Querétaro,,2015-01-01
+2015,mujer,Querétaro,,2015-01-01
+2016,hombre,Querétaro,2.0,2016-01-01
+2016,mujer,Querétaro,0.0,2016-01-01
+2017,hombre,Querétaro,1.0,2017-01-01
+2017,mujer,Querétaro,1.0,2017-01-01
+2018,hombre,Querétaro,1.0,2018-01-01
+2018,mujer,Querétaro,1.0,2018-01-01
+2019,hombre,Querétaro,2.0,2019-01-01
+2019,mujer,Querétaro,0.0,2019-01-01
+2020,hombre,Querétaro,,2020-01-01
+2020,mujer,Querétaro,,2020-01-01
+2021,hombre,Querétaro,,2021-01-01
+2021,mujer,Querétaro,1.0,2021-01-01
+2022,hombre,Querétaro,1.0,2022-01-01
+2022,mujer,Querétaro,,2022-01-01
+2023,hombre,Querétaro,1.0,2023-01-01
+2023,mujer,Querétaro,,2023-01-01
+2024,hombre,Querétaro,1.0,2024-01-01
+2024,mujer,Querétaro,,2024-01-01
+2025,hombre,Querétaro,,2025-01-01
+2025,mujer,Querétaro,,2025-01-01
+2010,hombre,Quintana Roo,1.0,2010-01-01
+2010,mujer,Quintana Roo,0.0,2010-01-01
+2011,hombre,Quintana Roo,1.0,2011-01-01
+2011,mujer,Quintana Roo,0.0,2011-01-01
+2012,hombre,Quintana Roo,,2012-01-01
+2012,mujer,Quintana Roo,,2012-01-01
+2013,hombre,Quintana Roo,0.0,2013-01-01
+2013,mujer,Quintana Roo,1.0,2013-01-01
+2014,hombre,Quintana Roo,,2014-01-01
+2014,mujer,Quintana Roo,,2014-01-01
+2015,hombre,Quintana Roo,1.0,2015-01-01
+2015,mujer,Quintana Roo,0.0,2015-01-01
+2016,hombre,Quintana Roo,,2016-01-01
+2016,mujer,Quintana Roo,,2016-01-01
+2017,hombre,Quintana Roo,0.0,2017-01-01
+2017,mujer,Quintana Roo,1.0,2017-01-01
+2018,hombre,Quintana Roo,,2018-01-01
+2018,mujer,Quintana Roo,,2018-01-01
+2019,hombre,Quintana Roo,1.0,2019-01-01
+2019,mujer,Quintana Roo,0.0,2019-01-01
+2020,hombre,Quintana Roo,,2020-01-01
+2020,mujer,Quintana Roo,,2020-01-01
+2021,hombre,Quintana Roo,,2021-01-01
+2021,mujer,Quintana Roo,,2021-01-01
+2022,hombre,Quintana Roo,,2022-01-01
+2022,mujer,Quintana Roo,,2022-01-01
+2023,hombre,Quintana Roo,,2023-01-01
+2023,mujer,Quintana Roo,,2023-01-01
+2024,hombre,Quintana Roo,1.0,2024-01-01
+2024,mujer,Quintana Roo,,2024-01-01
+2025,hombre,Quintana Roo,,2025-01-01
+2025,mujer,Quintana Roo,,2025-01-01
+2010,hombre,San Luis Potosí,,2010-01-01
+2010,mujer,San Luis Potosí,,2010-01-01
+2011,hombre,San Luis Potosí,3.0,2011-01-01
+2011,mujer,San Luis Potosí,0.0,2011-01-01
+2012,hombre,San Luis Potosí,2.0,2012-01-01
+2012,mujer,San Luis Potosí,0.0,2012-01-01
+2013,hombre,San Luis Potosí,,2013-01-01
+2013,mujer,San Luis Potosí,,2013-01-01
+2014,hombre,San Luis Potosí,,2014-01-01
+2014,mujer,San Luis Potosí,,2014-01-01
+2015,hombre,San Luis Potosí,,2015-01-01
+2015,mujer,San Luis Potosí,,2015-01-01
+2016,hombre,San Luis Potosí,0.0,2016-01-01
+2016,mujer,San Luis Potosí,1.0,2016-01-01
+2017,hombre,San Luis Potosí,1.0,2017-01-01
+2017,mujer,San Luis Potosí,0.0,2017-01-01
+2018,hombre,San Luis Potosí,2.0,2018-01-01
+2018,mujer,San Luis Potosí,0.0,2018-01-01
+2019,hombre,San Luis Potosí,,2019-01-01
+2019,mujer,San Luis Potosí,,2019-01-01
+2020,hombre,San Luis Potosí,1.0,2020-01-01
+2020,mujer,San Luis Potosí,,2020-01-01
+2021,hombre,San Luis Potosí,,2021-01-01
+2021,mujer,San Luis Potosí,,2021-01-01
+2022,hombre,San Luis Potosí,,2022-01-01
+2022,mujer,San Luis Potosí,,2022-01-01
+2023,hombre,San Luis Potosí,1.0,2023-01-01
+2023,mujer,San Luis Potosí,,2023-01-01
+2024,hombre,San Luis Potosí,1.0,2024-01-01
+2024,mujer,San Luis Potosí,,2024-01-01
+2025,hombre,San Luis Potosí,,2025-01-01
+2025,mujer,San Luis Potosí,,2025-01-01
+2010,hombre,Sinaloa,1.0,2010-01-01
+2010,mujer,Sinaloa,0.0,2010-01-01
+2011,hombre,Sinaloa,2.0,2011-01-01
+2011,mujer,Sinaloa,0.0,2011-01-01
+2012,hombre,Sinaloa,2.0,2012-01-01
+2012,mujer,Sinaloa,0.0,2012-01-01
+2013,hombre,Sinaloa,3.0,2013-01-01
+2013,mujer,Sinaloa,0.0,2013-01-01
+2014,hombre,Sinaloa,2.0,2014-01-01
+2014,mujer,Sinaloa,0.0,2014-01-01
+2015,hombre,Sinaloa,,2015-01-01
+2015,mujer,Sinaloa,,2015-01-01
+2016,hombre,Sinaloa,,2016-01-01
+2016,mujer,Sinaloa,,2016-01-01
+2017,hombre,Sinaloa,,2017-01-01
+2017,mujer,Sinaloa,,2017-01-01
+2018,hombre,Sinaloa,2.0,2018-01-01
+2018,mujer,Sinaloa,0.0,2018-01-01
+2019,hombre,Sinaloa,5.0,2019-01-01
+2019,mujer,Sinaloa,1.0,2019-01-01
+2020,hombre,Sinaloa,1.0,2020-01-01
+2020,mujer,Sinaloa,,2020-01-01
+2021,hombre,Sinaloa,1.0,2021-01-01
+2021,mujer,Sinaloa,1.0,2021-01-01
+2022,hombre,Sinaloa,2.0,2022-01-01
+2022,mujer,Sinaloa,1.0,2022-01-01
+2023,hombre,Sinaloa,4.0,2023-01-01
+2023,mujer,Sinaloa,,2023-01-01
+2024,hombre,Sinaloa,,2024-01-01
+2024,mujer,Sinaloa,2.0,2024-01-01
+2025,hombre,Sinaloa,,2025-01-01
+2025,mujer,Sinaloa,,2025-01-01
+2010,hombre,Sonora,,2010-01-01
+2010,mujer,Sonora,,2010-01-01
+2011,hombre,Sonora,,2011-01-01
+2011,mujer,Sonora,,2011-01-01
+2012,hombre,Sonora,1.0,2012-01-01
+2012,mujer,Sonora,0.0,2012-01-01
+2013,hombre,Sonora,2.0,2013-01-01
+2013,mujer,Sonora,0.0,2013-01-01
+2014,hombre,Sonora,,2014-01-01
+2014,mujer,Sonora,,2014-01-01
+2015,hombre,Sonora,1.0,2015-01-01
+2015,mujer,Sonora,0.0,2015-01-01
+2016,hombre,Sonora,,2016-01-01
+2016,mujer,Sonora,,2016-01-01
+2017,hombre,Sonora,1.0,2017-01-01
+2017,mujer,Sonora,0.0,2017-01-01
+2018,hombre,Sonora,2.0,2018-01-01
+2018,mujer,Sonora,0.0,2018-01-01
+2019,hombre,Sonora,,2019-01-01
+2019,mujer,Sonora,,2019-01-01
+2020,hombre,Sonora,1.0,2020-01-01
+2020,mujer,Sonora,,2020-01-01
+2021,hombre,Sonora,,2021-01-01
+2021,mujer,Sonora,,2021-01-01
+2022,hombre,Sonora,1.0,2022-01-01
+2022,mujer,Sonora,,2022-01-01
+2023,hombre,Sonora,2.0,2023-01-01
+2023,mujer,Sonora,,2023-01-01
+2024,hombre,Sonora,,2024-01-01
+2024,mujer,Sonora,,2024-01-01
+2025,hombre,Sonora,,2025-01-01
+2025,mujer,Sonora,,2025-01-01
+2010,hombre,Tabasco,1.0,2010-01-01
+2010,mujer,Tabasco,0.0,2010-01-01
+2011,hombre,Tabasco,,2011-01-01
+2011,mujer,Tabasco,,2011-01-01
+2012,hombre,Tabasco,2.0,2012-01-01
+2012,mujer,Tabasco,0.0,2012-01-01
+2013,hombre,Tabasco,1.0,2013-01-01
+2013,mujer,Tabasco,0.0,2013-01-01
+2014,hombre,Tabasco,,2014-01-01
+2014,mujer,Tabasco,,2014-01-01
+2015,hombre,Tabasco,,2015-01-01
+2015,mujer,Tabasco,,2015-01-01
+2016,hombre,Tabasco,0.0,2016-01-01
+2016,mujer,Tabasco,1.0,2016-01-01
+2017,hombre,Tabasco,,2017-01-01
+2017,mujer,Tabasco,,2017-01-01
+2018,hombre,Tabasco,2.0,2018-01-01
+2018,mujer,Tabasco,1.0,2018-01-01
+2019,hombre,Tabasco,,2019-01-01
+2019,mujer,Tabasco,,2019-01-01
+2020,hombre,Tabasco,1.0,2020-01-01
+2020,mujer,Tabasco,,2020-01-01
+2021,hombre,Tabasco,,2021-01-01
+2021,mujer,Tabasco,,2021-01-01
+2022,hombre,Tabasco,,2022-01-01
+2022,mujer,Tabasco,,2022-01-01
+2023,hombre,Tabasco,1.0,2023-01-01
+2023,mujer,Tabasco,,2023-01-01
+2024,hombre,Tabasco,1.0,2024-01-01
+2024,mujer,Tabasco,,2024-01-01
+2025,hombre,Tabasco,1.0,2025-01-01
+2025,mujer,Tabasco,,2025-01-01
+2010,hombre,Tamaulipas,2.0,2010-01-01
+2010,mujer,Tamaulipas,0.0,2010-01-01
+2011,hombre,Tamaulipas,,2011-01-01
+2011,mujer,Tamaulipas,,2011-01-01
+2012,hombre,Tamaulipas,1.0,2012-01-01
+2012,mujer,Tamaulipas,0.0,2012-01-01
+2013,hombre,Tamaulipas,1.0,2013-01-01
+2013,mujer,Tamaulipas,0.0,2013-01-01
+2014,hombre,Tamaulipas,,2014-01-01
+2014,mujer,Tamaulipas,,2014-01-01
+2015,hombre,Tamaulipas,3.0,2015-01-01
+2015,mujer,Tamaulipas,0.0,2015-01-01
+2016,hombre,Tamaulipas,,2016-01-01
+2016,mujer,Tamaulipas,,2016-01-01
+2017,hombre,Tamaulipas,,2017-01-01
+2017,mujer,Tamaulipas,,2017-01-01
+2018,hombre,Tamaulipas,1.0,2018-01-01
+2018,mujer,Tamaulipas,0.0,2018-01-01
+2019,hombre,Tamaulipas,1.0,2019-01-01
+2019,mujer,Tamaulipas,1.0,2019-01-01
+2020,hombre,Tamaulipas,1.0,2020-01-01
+2020,mujer,Tamaulipas,,2020-01-01
+2021,hombre,Tamaulipas,1.0,2021-01-01
+2021,mujer,Tamaulipas,,2021-01-01
+2022,hombre,Tamaulipas,3.0,2022-01-01
+2022,mujer,Tamaulipas,,2022-01-01
+2023,hombre,Tamaulipas,1.0,2023-01-01
+2023,mujer,Tamaulipas,,2023-01-01
+2024,hombre,Tamaulipas,1.0,2024-01-01
+2024,mujer,Tamaulipas,,2024-01-01
+2025,hombre,Tamaulipas,,2025-01-01
+2025,mujer,Tamaulipas,,2025-01-01
+2010,hombre,Tlaxcala,1.0,2010-01-01
+2010,mujer,Tlaxcala,0.0,2010-01-01
+2011,hombre,Tlaxcala,,2011-01-01
+2011,mujer,Tlaxcala,,2011-01-01
+2012,hombre,Tlaxcala,1.0,2012-01-01
+2012,mujer,Tlaxcala,0.0,2012-01-01
+2013,hombre,Tlaxcala,1.0,2013-01-01
+2013,mujer,Tlaxcala,0.0,2013-01-01
+2014,hombre,Tlaxcala,,2014-01-01
+2014,mujer,Tlaxcala,,2014-01-01
+2015,hombre,Tlaxcala,,2015-01-01
+2015,mujer,Tlaxcala,,2015-01-01
+2016,hombre,Tlaxcala,2.0,2016-01-01
+2016,mujer,Tlaxcala,0.0,2016-01-01
+2017,hombre,Tlaxcala,2.0,2017-01-01
+2017,mujer,Tlaxcala,0.0,2017-01-01
+2018,hombre,Tlaxcala,1.0,2018-01-01
+2018,mujer,Tlaxcala,0.0,2018-01-01
+2019,hombre,Tlaxcala,1.0,2019-01-01
+2019,mujer,Tlaxcala,0.0,2019-01-01
+2020,hombre,Tlaxcala,,2020-01-01
+2020,mujer,Tlaxcala,,2020-01-01
+2021,hombre,Tlaxcala,2.0,2021-01-01
+2021,mujer,Tlaxcala,,2021-01-01
+2022,hombre,Tlaxcala,2.0,2022-01-01
+2022,mujer,Tlaxcala,,2022-01-01
+2023,hombre,Tlaxcala,1.0,2023-01-01
+2023,mujer,Tlaxcala,,2023-01-01
+2024,hombre,Tlaxcala,2.0,2024-01-01
+2024,mujer,Tlaxcala,,2024-01-01
+2025,hombre,Tlaxcala,,2025-01-01
+2025,mujer,Tlaxcala,,2025-01-01
+2010,hombre,Veracruz,3.0,2010-01-01
+2010,mujer,Veracruz,0.0,2010-01-01
+2011,hombre,Veracruz,1.0,2011-01-01
+2011,mujer,Veracruz,2.0,2011-01-01
+2012,hombre,Veracruz,4.0,2012-01-01
+2012,mujer,Veracruz,1.0,2012-01-01
+2013,hombre,Veracruz,0.0,2013-01-01
+2013,mujer,Veracruz,1.0,2013-01-01
+2014,hombre,Veracruz,5.0,2014-01-01
+2014,mujer,Veracruz,1.0,2014-01-01
+2015,hombre,Veracruz,1.0,2015-01-01
+2015,mujer,Veracruz,2.0,2015-01-01
+2016,hombre,Veracruz,4.0,2016-01-01
+2016,mujer,Veracruz,0.0,2016-01-01
+2017,hombre,Veracruz,1.0,2017-01-01
+2017,mujer,Veracruz,0.0,2017-01-01
+2018,hombre,Veracruz,4.0,2018-01-01
+2018,mujer,Veracruz,0.0,2018-01-01
+2019,hombre,Veracruz,2.0,2019-01-01
+2019,mujer,Veracruz,3.0,2019-01-01
+2020,hombre,Veracruz,4.0,2020-01-01
+2020,mujer,Veracruz,1.0,2020-01-01
+2021,hombre,Veracruz,5.0,2021-01-01
+2021,mujer,Veracruz,1.0,2021-01-01
+2022,hombre,Veracruz,3.0,2022-01-01
+2022,mujer,Veracruz,2.0,2022-01-01
+2023,hombre,Veracruz,5.0,2023-01-01
+2023,mujer,Veracruz,1.0,2023-01-01
+2024,hombre,Veracruz,1.0,2024-01-01
+2024,mujer,Veracruz,2.0,2024-01-01
+2025,hombre,Veracruz,1.0,2025-01-01
+2025,mujer,Veracruz,1.0,2025-01-01
+2010,hombre,Yucatán,2.0,2010-01-01
+2010,mujer,Yucatán,0.0,2010-01-01
+2011,hombre,Yucatán,,2011-01-01
+2011,mujer,Yucatán,,2011-01-01
+2012,hombre,Yucatán,,2012-01-01
+2012,mujer,Yucatán,,2012-01-01
+2013,hombre,Yucatán,,2013-01-01
+2013,mujer,Yucatán,,2013-01-01
+2014,hombre,Yucatán,1.0,2014-01-01
+2014,mujer,Yucatán,0.0,2014-01-01
+2015,hombre,Yucatán,3.0,2015-01-01
+2015,mujer,Yucatán,0.0,2015-01-01
+2016,hombre,Yucatán,,2016-01-01
+2016,mujer,Yucatán,,2016-01-01
+2017,hombre,Yucatán,1.0,2017-01-01
+2017,mujer,Yucatán,0.0,2017-01-01
+2018,hombre,Yucatán,1.0,2018-01-01
+2018,mujer,Yucatán,1.0,2018-01-01
+2019,hombre,Yucatán,1.0,2019-01-01
+2019,mujer,Yucatán,0.0,2019-01-01
+2020,hombre,Yucatán,,2020-01-01
+2020,mujer,Yucatán,,2020-01-01
+2021,hombre,Yucatán,,2021-01-01
+2021,mujer,Yucatán,,2021-01-01
+2022,hombre,Yucatán,1.0,2022-01-01
+2022,mujer,Yucatán,,2022-01-01
+2023,hombre,Yucatán,,2023-01-01
+2023,mujer,Yucatán,,2023-01-01
+2024,hombre,Yucatán,1.0,2024-01-01
+2024,mujer,Yucatán,,2024-01-01
+2025,hombre,Yucatán,,2025-01-01
+2025,mujer,Yucatán,,2025-01-01
+2010,hombre,Zacatecas,,2010-01-01
+2010,mujer,Zacatecas,,2010-01-01
+2011,hombre,Zacatecas,,2011-01-01
+2011,mujer,Zacatecas,,2011-01-01
+2012,hombre,Zacatecas,1.0,2012-01-01
+2012,mujer,Zacatecas,0.0,2012-01-01
+2013,hombre,Zacatecas,2.0,2013-01-01
+2013,mujer,Zacatecas,0.0,2013-01-01
+2014,hombre,Zacatecas,,2014-01-01
+2014,mujer,Zacatecas,,2014-01-01
+2015,hombre,Zacatecas,,2015-01-01
+2015,mujer,Zacatecas,,2015-01-01
+2016,hombre,Zacatecas,1.0,2016-01-01
+2016,mujer,Zacatecas,0.0,2016-01-01
+2017,hombre,Zacatecas,,2017-01-01
+2017,mujer,Zacatecas,,2017-01-01
+2018,hombre,Zacatecas,,2018-01-01
+2018,mujer,Zacatecas,,2018-01-01
+2019,hombre,Zacatecas,,2019-01-01
+2019,mujer,Zacatecas,,2019-01-01
+2020,hombre,Zacatecas,1.0,2020-01-01
+2020,mujer,Zacatecas,,2020-01-01
+2021,hombre,Zacatecas,1.0,2021-01-01
+2021,mujer,Zacatecas,,2021-01-01
+2022,hombre,Zacatecas,,2022-01-01
+2022,mujer,Zacatecas,,2022-01-01
+2023,hombre,Zacatecas,,2023-01-01
+2023,mujer,Zacatecas,1.0,2023-01-01
+2024,hombre,Zacatecas,1.0,2024-01-01
+2024,mujer,Zacatecas,,2024-01-01
+2025,hombre,Zacatecas,,2025-01-01
+2025,mujer,Zacatecas,,2025-01-01
+2010,hombre,Desconocido,4.0,2010-01-01
+2010,mujer,Desconocido,1.0,2010-01-01
+2011,hombre,Desconocido,4.0,2011-01-01
+2011,mujer,Desconocido,1.0,2011-01-01
+2012,hombre,Desconocido,1.0,2012-01-01
+2012,mujer,Desconocido,0.0,2012-01-01
+2013,hombre,Desconocido,1.0,2013-01-01
+2013,mujer,Desconocido,1.0,2013-01-01
+2014,hombre,Desconocido,0.0,2014-01-01
+2014,mujer,Desconocido,1.0,2014-01-01
+2015,hombre,Desconocido,1.0,2015-01-01
+2015,mujer,Desconocido,1.0,2015-01-01
+2016,hombre,Desconocido,2.0,2016-01-01
+2016,mujer,Desconocido,1.0,2016-01-01
+2017,hombre,Desconocido,1.0,2017-01-01
+2017,mujer,Desconocido,0.0,2017-01-01
+2018,hombre,Desconocido,2.0,2018-01-01
+2018,mujer,Desconocido,4.0,2018-01-01
+2019,hombre,Desconocido,3.0,2019-01-01
+2019,mujer,Desconocido,0.0,2019-01-01
+2020,hombre,Desconocido,3.0,2020-01-01
+2020,mujer,Desconocido,,2020-01-01
+2021,hombre,Desconocido,4.0,2021-01-01
+2021,mujer,Desconocido,,2021-01-01
+2022,hombre,Desconocido,3.0,2022-01-01
+2022,mujer,Desconocido,1.0,2022-01-01
+2023,hombre,Desconocido,,2023-01-01
+2023,mujer,Desconocido,2.0,2023-01-01
+2024,hombre,Desconocido,2.0,2024-01-01
+2024,mujer,Desconocido,2.0,2024-01-01
+2025,hombre,Desconocido,,2025-01-01
+2025,mujer,Desconocido,1.0,2025-01-01
